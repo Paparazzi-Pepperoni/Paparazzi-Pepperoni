@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Paparazzi-Pepperoni
+-  👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 📫 How to reach me toleiikisarentas@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I moved here from [Replit](https://replit.com/@23toleikisa)
